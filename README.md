@@ -10,6 +10,8 @@
 
 # Plan
 
+![shutup](./pictures/shutup.jpg)
+
 - Linear algebra
 - Qbits, superposition & quantum logical gates
 - Deutsch oracle: simple problem for supremacy
