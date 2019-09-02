@@ -5,6 +5,9 @@
 - Grover's algorithm
 - Why not ? It's really weird !
 
+![quantum-computer](./pictures/quantum-computer.jpg)
+
+
 # Plan
 
 - Linear algebra
