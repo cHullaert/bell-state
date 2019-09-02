@@ -25,6 +25,8 @@
 
 ## Matrix multiplication
 
+![Matrix - not this one](./pictures/matrix.jpg)
+
 ![Matrix multiplication](./pictures/matrix-multiplication.png)
 
 ## Operations on one classic bit
