@@ -5,7 +5,7 @@
 - Grover's algorithm
 - Why not ? It's really weird !
 
-![quantum-computer](./pictures/quantum-computer.jpg)
+![quantum-computer](./pictures/quantum-computer-microsoft.jpg)
 
 
 # Plan
