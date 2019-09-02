@@ -120,6 +120,10 @@ Pair<Bit> CNOT(Pair<Bit> bits) {
 
 > ||ac||²+||ad||²+||bc||²+||bd||²=1
 
+> Schrödinger's cat ????
+
+![schrodinger-cat](./pictures/schrodinger-cat.jpg)
+
 ## Operations on QBits
 
 - like cbits : with matrices
