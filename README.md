@@ -281,6 +281,7 @@ Pair<Bit> CNOT(Pair<Bit> bits) {
 # Readings
 
 * [Quantum Computing for Computer Scientists](https://www.amazon.fr/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965)
+* [Quantum Computing - Introduction](https://www.amazon.fr/Quantum-Computer-Science-David-Mermin/dp/0521876583)
 * [Bell state](https://en.wikipedia.org/wiki/Bell_state)
 * [Shor's algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm)
 * [Grover's algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm)
