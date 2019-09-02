@@ -79,6 +79,8 @@ Pair<Bit> CNOT(Pair<Bit> bits) {
 
 # QBits
 
+> smallest information unit in quantum world
+
 > cbits vectors are just special cases of qbits vectors
 
 > qbits are represented with a & b complex numbers where ||a||²+||b||²=1
@@ -278,6 +280,4 @@ Pair<Bit> CNOT(Pair<Bit> bits) {
 * [Write a quantum program](https://docs.microsoft.com/fr-fr/quantum/quickstart?view=qsharp-preview&tabs=tabid-vs2019)
 * [Quantum Teleportation](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/27/quantum-teleportation-in-q/)
 
-# To buy absolutely
 
-* [Quantum device](https://www.amazon.in/Quantum-QHM6056B-Thin-Client-Black/dp/B00L393W84)
