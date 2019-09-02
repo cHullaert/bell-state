@@ -15,7 +15,7 @@
 - Linear algebra
 - Qbits, superposition & quantum logical gates
 - Deutsch oracle: simple problem for supremacy
-- Teleportation example
+- Enjoy coding - Teleportation ?
 
 # Linear algebra
 
