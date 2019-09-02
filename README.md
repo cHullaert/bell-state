@@ -269,6 +269,8 @@ Pair<Bit> CNOT(Pair<Bit> bits) {
 
 # Teleportation
 
+![teleportation](./pictures/teleport.jpg)
+
 - Quantum teleportation is the process by which the state of a QBit is transferred from one location to another by way of two entangled qbits
 
 * You can cut/paste qbit but you cannot copy/paste (no duplication theorem)
@@ -284,6 +286,8 @@ Pair<Bit> CNOT(Pair<Bit> bits) {
 * [Grover's algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm)
 
 # Let's go coding
+
+![coding](./pictures/coding.jpg)
 
 * [Install Q# toolkit](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit#review-details)
 * [Write a quantum program](https://docs.microsoft.com/fr-fr/quantum/quickstart?view=qsharp-preview&tabs=tabid-vs2019)
